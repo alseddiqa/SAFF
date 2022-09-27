@@ -16,6 +16,7 @@
 		B80B2C7628E1FEFB00E94FF7 /* SAFFTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B80B2C7528E1FEFB00E94FF7 /* SAFFTests.swift */; };
 		B80B2C8028E1FEFB00E94FF7 /* SAFFUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B80B2C7F28E1FEFB00E94FF7 /* SAFFUITests.swift */; };
 		B80B2C8228E1FEFB00E94FF7 /* SAFFUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B80B2C8128E1FEFB00E94FF7 /* SAFFUITestsLaunchTests.swift */; };
+		B80B2C8F28E39D6800E94FF7 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B80B2C8E28E39D6700E94FF7 /* HomeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B80B2C7B28E1FEFB00E94FF7 /* SAFFUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SAFFUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B80B2C7F28E1FEFB00E94FF7 /* SAFFUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SAFFUITests.swift; sourceTree = "<group>"; };
 		B80B2C8128E1FEFB00E94FF7 /* SAFFUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SAFFUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B80B2C8E28E39D6700E94FF7 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				B80B2C6728E1FEFA00E94FF7 /* Assets.xcassets */,
 				B80B2C6928E1FEFB00E94FF7 /* LaunchScreen.storyboard */,
 				B80B2C6C28E1FEFB00E94FF7 /* Info.plist */,
+				B80B2C8E28E39D6700E94FF7 /* HomeViewController.swift */,
 			);
 			path = SAFF;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				B80B2C6328E1FEF800E94FF7 /* ViewController.swift in Sources */,
 				B80B2C5F28E1FEF800E94FF7 /* AppDelegate.swift in Sources */,
 				B80B2C6128E1FEF800E94FF7 /* SceneDelegate.swift in Sources */,
+				B80B2C8F28E39D6800E94FF7 /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

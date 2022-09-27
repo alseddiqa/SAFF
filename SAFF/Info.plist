@@ -21,5 +21,9 @@
 			</array>
 		</dict>
 	</dict>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>SAFF need to access your location to track attendance</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>SAFF need to access your location to track attendance</string>
 </dict>
 </plist>
